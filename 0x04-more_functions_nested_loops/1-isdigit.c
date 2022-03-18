@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * _isdigit - if is a digit
- *@c: print int
+ * _isdigit - if ia a digit[D[D[D[D[D[D[D[s[C[C[C[C[C[C[C[C
+ *@C: print int
  * Return: Always 0.
  */
 
