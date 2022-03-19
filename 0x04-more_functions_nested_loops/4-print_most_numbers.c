@@ -9,8 +9,7 @@ void print_most_numbers(void)
 
 int i;
 
-i = o;
-[A[C[C[C[C[0[C[B[A
+i = 0;
 while (i < 10)
 {
 if (i != 2 && i != 4)
