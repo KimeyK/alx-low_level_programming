@@ -1,0 +1,22 @@
+int _putchar(char c);                                                                                                                                
+void swap_int(int *a, int *b);                                                                                                                       
+int _strlen(char *s);                                                                                                                                
+void _puts(char *str);                                                                                                                               
+void print_rev(char *s);                                                                                                                             
+void rev_string(char *s);                                                                                                                            
+void puts2(char *str);                                                                                                                               
+void puts_half(char *str);                                                                                                                           
+void print_array(int *a, int n);                                                                                                                     
+char *_strcpy(char *dest, char *src);                                                                                                                
+int _atoi(char *s);[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+[A[3~[[3~[3~[3[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[A[B[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[A[B[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[A[C[C[C[C[C[C[C[C[C[C[C[C[A[A[C[C[C[C[C[C[C[C[C[C[C[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3;2~int _putchar(char c);                                                                                                                                
+void swap_int(int *a, int *b);                                                                                                                       
+int _strlen(char *s);                                                                                                                                
+void _puts(char *str);                                                                                                                               
+void print_rev(char *s);                                                                                                                             
+void rev_string(char *s);                                                                                                                            
+void puts2(char *str);                                                                                                                               
+void puts_half(char *str);                                                                                                                           
+void print_array(int *a, int n);                                                                                                                     
+char *_strcpy(char *dest, char *src);
+int _atoi(char *s);
