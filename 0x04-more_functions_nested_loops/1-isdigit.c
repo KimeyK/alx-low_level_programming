@@ -1,15 +1,17 @@
-#include "main.h"
+#include "holberton.h"
+
 /**
- * _isdigit - Check for a digit (0-9)
- * @c: Integer holding the character
+ * _isdigit - Checks for numbers
  *
- * Return: 1- Digit 0- Not
+ * @c: character to checked
+ *
+ * Return: 1 OR 0
  */
 
 int _isdigit(int c)
 {
 	if (c >= 48 && c <= 57)
 		return (1);
-
-	return (0);
+	else
+		return (0);
 }
